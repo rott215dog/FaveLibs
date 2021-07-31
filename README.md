@@ -7,9 +7,6 @@ Some of my favorite libraries
 ### SwiftWebUI with WASM - SwiftWebUI with WASM support
 [Link](https://github.com/carson-katri/SwiftWebUI)
 
-### SwiftWebUI Router - SwiftWebUI with simplified page routing
-[Link](https://github.com/carson-katri/swiftwebui-router)
-
 ### Vapor - Swift web development
 [Link](https://vapor.codes)
 
