@@ -31,3 +31,8 @@ Some of my favorite libraries
 
 ### Tokamak Vapor - Tokamak for Vapor
 [Link](https://github.com/TokamakUI/TokamakVapor)
+
+# Legacy
+
+### SwiftWebUI - No longer maintained: SwiftUI for the web
+[Link](https://github.com/carson-katri/SwiftWebUI)
