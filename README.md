@@ -9,7 +9,7 @@ Some of my favorite libraries
 [Link](https://github.com/pvieito/PythonKit)
 
 ### Files - Simplified file use in Swift
-[Linl](https://github.com/JohnSundell/Files)
+[Link](https://github.com/JohnSundell/Files)
 
 ### Bignum - Swift support for numbers exceeding bit-depth
 [Link](https://github.com/dankogai/swift-bignum)
