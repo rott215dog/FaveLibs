@@ -36,3 +36,9 @@ Some of my favorite libraries
 
 ### SwiftWebUI - No longer maintained: SwiftUI for the web
 [Link](https://github.com/carson-katri/SwiftWebUI)
+
+### SwiftWebUI (OG) - Original SwiftWebUI
+[Link](https://github.com/SwiftWebUI/SwiftWebUI)
+
+### Avacado Toast - SwiftWebUI Demo
+[Link](https://github.com/SwiftWebUI/AvocadoToast)
