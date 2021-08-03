@@ -14,7 +14,7 @@ Some of my favorite libraries
 ### Bignum - Swift support for numbers exceeding bit-depth
 [Link](https://github.com/dankogai/swift-bignum)
 
-### Bigint - Swift support for integers exceeding bit-depth
+### BigInt - Swift support for integers exceeding bit-depth
 [Link](https://github.com/attaswift/BigInt)
 
 ### Tokamak - Actively supported SwiftUI for the web
