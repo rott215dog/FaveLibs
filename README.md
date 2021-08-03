@@ -28,3 +28,6 @@ Some of my favorite libraries
 
 ### Tokamak To Do - An example Tokamak application
 [Link](https://github.com/TokamakUI/tokamak-todo-example)
+
+### Tokamak Vapor - Tokamak for Vapor
+[Link](https://github.com/TokamakUI/TokamakVapor)
