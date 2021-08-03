@@ -34,7 +34,7 @@ Some of my favorite libraries
 
 # Legacy
 
-### SwiftWebUI - No longer maintained: SwiftUI for the web
+### SwiftWebUI WASM - No longer maintained: SwiftUI for the web (Supports WASM)
 [Link](https://github.com/carson-katri/SwiftWebUI)
 
 ### SwiftWebUI (OG) - Original SwiftWebUI
