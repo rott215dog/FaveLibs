@@ -26,9 +26,6 @@ Some of my favorite libraries
 ### Tokamak Publish - SwiftUI for Publish
 [Link](https://github.com/TokamakUI/TokamakPublish)
 
-### Tokamak To Do - An example Tokamak application
-[Link](https://github.com/TokamakUI/tokamak-todo-example)
-
 ### Tokamak Vapor - Tokamak for Vapor
 [Link](https://github.com/TokamakUI/TokamakVapor)
 
@@ -40,5 +37,10 @@ Some of my favorite libraries
 ### SwiftWebUI (OG) - Original SwiftWebUI
 [Link](https://github.com/SwiftWebUI/SwiftWebUI)
 
+# Support
+
 ### Avacado Toast - SwiftWebUI Demo
 [Link](https://github.com/SwiftWebUI/AvocadoToast)
+
+### Tokamak To Do - An example Tokamak application
+[Link](https://github.com/TokamakUI/tokamak-todo-example)
