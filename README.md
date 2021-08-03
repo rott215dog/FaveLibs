@@ -1,11 +1,6 @@
 # FaveLibs
 Some of my favorite libraries 
 
-### SwiftWebUI - SwiftUI for the web
-[Link](https://github.com/swiftwebui/SwiftWebUI)
-
-### SwiftWebUI with WASM - SwiftWebUI with WASM support
-[Link](https://github.com/carson-katri/SwiftWebUI)
 
 ### Vapor - Swift web development
 [Link](https://vapor.codes)
