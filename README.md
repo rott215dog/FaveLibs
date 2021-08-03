@@ -25,11 +25,11 @@ Some of my favorite libraries
 ### Tokamak - Actively supported SwiftUI for the web
 [Link](https://github.com/TokamakUI/Tokamak)
 
-## Publish - Swift websites
+### Publish - Swift websites
 [Link](https://github.com/johnsundell/Publish)
 
-## Tokamak Publish - SwiftUI for Publish
+### Tokamak Publish - SwiftUI for Publish
 [Link](https://github.com/TokamakUI/TokamakPublish)
 
-## Tokamak To Do - An example Tokamak application
+### Tokamak To Do - An example Tokamak application
 [Link](https://github.com/TokamakUI/tokamak-todo-example)
