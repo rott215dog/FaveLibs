@@ -29,6 +29,9 @@ Some of my favorite libraries
 ### Tokamak Vapor - Tokamak for Vapor
 [Link](https://github.com/TokamakUI/TokamakVapor)
 
+### JavascriptKit - JS for Swift
+[Link](https://github.com/swiftwasm/JavaScriptKit)
+
 # Legacy
 
 ### SwiftWebUI WASM - No longer maintained: SwiftUI for the web (Supports WASM)
