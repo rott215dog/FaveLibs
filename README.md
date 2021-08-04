@@ -48,7 +48,8 @@ Some of my favorite libraries
 ### Tokamak To Do - An example Tokamak application
 [Link](https://github.com/TokamakUI/tokamak-todo-example)
 
-### TapGesture - Improved SwiftWebUI Buttons
+### TapGesture - Improved Tokamak Buttons
 [Link](https://github.com/fatsandwichgames/wasm-website/blob/master/Sources/Games/Views/Generic/TapGesture.swift)
 
-
+### Link - Links for Tokamak
+[Link](https://github.com/fatsandwichgames/wasm-website/blob/master/Sources/Games/Views/Generic/Link.swift)
