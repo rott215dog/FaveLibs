@@ -28,7 +28,7 @@ Some of my favorite libraries
 ### Publish - Swift websites
 [Link](https://github.com/johnsundell/Publish)
 
-### Tokamak Publish - SwiftUI for Publish
+### Tokamak Publish - Tokamak for Publish
 [Link](https://github.com/TokamakUI/TokamakPublish)
 
 ### Tokamak Vapor - Tokamak for Vapor
