@@ -37,6 +37,9 @@ Some of my favorite libraries
 ### JavascriptKit - JS for Swift
 [Link](https://github.com/swiftwasm/JavaScriptKit)
 
+### HyperSwift - Easy Swift HTML
+[Link](https://github.com/johngarrett/HyperSwift)
+
 # Legacy
 
 ### SwiftWebUI WASM - No longer maintained: SwiftUI for the web (Supports WASM)
