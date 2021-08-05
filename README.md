@@ -1,6 +1,11 @@
 # FaveLibs
 Some of my favorite libraries 
 
+### Flutter - iOS/Android/Web app development
+[Link](https://flutter.dev/)
+
+### SwiftUI - Apple Platform app development
+[Link](https://developer.apple.com/xcode/swiftui/)
 
 ### Vapor - Swift web development
 [Link](https://vapor.codes)
