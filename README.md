@@ -28,12 +28,6 @@ Some of my favorite libraries
 ### Publish - Swift websites
 [Link](https://github.com/johnsundell/Publish)
 
-### Tokamak Publish - Tokamak for Publish
-[Link](https://github.com/TokamakUI/TokamakPublish)
-
-### Tokamak Vapor - Tokamak for Vapor
-[Link](https://github.com/TokamakUI/TokamakVapor)
-
 ### JavascriptKit - JS for Swift
 [Link](https://github.com/swiftwasm/JavaScriptKit)
 
