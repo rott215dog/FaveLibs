@@ -31,17 +31,12 @@ Some of my favorite libraries
 
 # Support
 
-### Avacado Toast - SwiftWebUI Demo
-[Link](https://github.com/SwiftWebUI/AvocadoToast)
+### [Avacado Toast](https://github.com/SwiftWebUI/AvocadoToast) - SwiftWebUI Demo
 
-### Tokamak To Do - An example Tokamak application
-[Link](https://github.com/TokamakUI/tokamak-todo-example)
+### [Tokamak To Do](https://github.com/TokamakUI/tokamak-todo-example) - An example Tokamak application
 
-### TapGesture - Improved Tokamak Buttons
-[Link](https://github.com/fatsandwichgames/wasm-website/blob/master/Sources/Games/Views/Generic/TapGesture.swift)
+### [TapGesture](https://github.com/fatsandwichgames/wasm-website/blob/master/Sources/Games/Views/Generic/TapGesture.swift) - Improved Tokamak Buttons
 
-### Link - Links for Tokamak
-[Link](https://github.com/fatsandwichgames/wasm-website/blob/master/Sources/Games/Views/Generic/Link.swift)
+### [Link](https://github.com/fatsandwichgames/wasm-website/blob/master/Sources/Games/Views/Generic/Link.swift) - Links for Tokamak
 
-### Tokamak Demos
-[Link](https://github.com/TokamakUI/Tokamak/tree/main/Sources/TokamakDemo)
+### [Tokamak Demos](https://github.com/TokamakUI/Tokamak/tree/main/Sources/TokamakDemo)
