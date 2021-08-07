@@ -23,6 +23,8 @@ Some of my favorite libraries
 
 ### [HyperSwift](https://github.com/johngarrett/HyperSwift) - Easy Swift HTML
 
+### [Splash](https://github.com/JohnSundell/Splash) - Swift code to HTML text with highlights
+
 # Legacy
 
 ### [SwiftWebUI WASM](https://github.com/carson-katri/SwiftWebUI) - No longer maintained: SwiftUI for the web (Supports WASM)
