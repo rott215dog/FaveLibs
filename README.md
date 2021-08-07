@@ -25,6 +25,8 @@ Some of my favorite libraries
 
 ### [Splash](https://github.com/JohnSundell/Splash) - Swift code to HTML text with highlights
 
+### [Ink](https://github.com/johnsundell/ink) - Markdown parser for Swift
+
 # Legacy
 
 ### [SwiftWebUI WASM](https://github.com/carson-katri/SwiftWebUI) - No longer maintained: SwiftUI for the web (Supports WASM)
