@@ -1,46 +1,33 @@
 # FaveLibs
 Some of my favorite libraries 
 
-### Flutter - iOS/Android/Web app development
-[Link](https://flutter.dev/)
+### [Flutter](https://flutter.dev/) - iOS/Android/Web app development
 
-### SwiftUI - Apple Platform app development
-[Link](https://developer.apple.com/xcode/swiftui/)
+### [SwiftUI](https://developer.apple.com/xcode/swiftui/) - Apple Platform app development
 
-### Vapor - Swift web development
-[Link](https://vapor.codes)
+### [Vapor](https://vapor.codes) - Swift web development
 
-### PythonKit - Python interop in Swift
-[Link](https://github.com/pvieito/PythonKit)
+### [PythonKit](https://github.com/pvieito/PythonKit) - Python interop in Swift
 
-### Files - Simplified file use in Swift
-[Link](https://github.com/JohnSundell/Files)
+### [Files](https://github.com/JohnSundell/Files) - Simplified file use in Swift
 
-### Bignum - Swift support for numbers exceeding bit-depth
-[Link](https://github.com/dankogai/swift-bignum)
+### [Bignum](https://github.com/dankogai/swift-bignum) - Swift support for numbers exceeding bit-depth
 
-### BigInt - Swift support for integers exceeding bit-depth
-[Link](https://github.com/attaswift/BigInt)
+### [BigInt](https://github.com/attaswift/BigInt) - Swift support for integers exceeding bit-depth
 
-### Tokamak - Actively supported SwiftUI for the web
-[Link](https://github.com/TokamakUI/Tokamak)
+### [Tokamak](https://github.com/TokamakUI/Tokamak) - Actively supported SwiftUI for the web
 
-### Publish - Swift websites
-[Link](https://github.com/johnsundell/Publish)
+### [Publish](https://github.com/johnsundell/Publish) - Swift websites
 
-### JavascriptKit - JS for Swift
-[Link](https://github.com/swiftwasm/JavaScriptKit)
+### [JavascriptKit](https://github.com/swiftwasm/JavaScriptKit) - JS for Swift
 
-### HyperSwift - Easy Swift HTML
-[Link](https://github.com/johngarrett/HyperSwift)
+### [HyperSwift](https://github.com/johngarrett/HyperSwift) - Easy Swift HTML
 
 # Legacy
 
-### SwiftWebUI WASM - No longer maintained: SwiftUI for the web (Supports WASM)
-[Link](https://github.com/carson-katri/SwiftWebUI)
+### [SwiftWebUI WASM](https://github.com/carson-katri/SwiftWebUI) - No longer maintained: SwiftUI for the web (Supports WASM)
 
-### SwiftWebUI (OG) - Original SwiftWebUI
-[Link](https://github.com/SwiftWebUI/SwiftWebUI)
+### [SwiftWebUI OG](https://github.com/SwiftWebUI/SwiftWebUI) - Original SwiftWebUI
 
 # Support
 
