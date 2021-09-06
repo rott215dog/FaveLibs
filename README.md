@@ -21,8 +21,6 @@ Some of my favorite libraries
 
 ### [JavascriptKit](https://github.com/swiftwasm/JavaScriptKit) - JS for Swift
 
-### [HyperSwift](https://github.com/johngarrett/HyperSwift) - Easy Swift HTML
-
 ### [Splash](https://github.com/JohnSundell/Splash) - Swift code to HTML text with highlights
 
 ### [Ink](https://github.com/johnsundell/ink) - Markdown parser for Swift
