@@ -17,14 +17,6 @@ Some of my favorite libraries
 
 ### [Tokamak](https://github.com/TokamakUI/Tokamak) - Actively supported SwiftUI for the web
 
-### [Publish](https://github.com/johnsundell/Publish) - Swift websites
-
-### [JavascriptKit](https://github.com/swiftwasm/JavaScriptKit) - JS for Swift
-
-### [Splash](https://github.com/JohnSundell/Splash) - Swift code to HTML text with highlights
-
-### [Ink](https://github.com/johnsundell/ink) - Markdown parser for Swift
-
 # Legacy
 
 ### [SwiftWebUI WASM](https://github.com/carson-katri/SwiftWebUI) - No longer maintained: SwiftUI for the web (Supports WASM)
