@@ -29,6 +29,4 @@ Some of my favorite libraries
 
 ### [Tokamak To Do](https://github.com/TokamakUI/tokamak-todo-example) - An example Tokamak application
 
-### [TapGesture](https://github.com/fatsandwichgames/wasm-website/blob/master/Sources/Games/Views/Generic/TapGesture.swift) - Improved Tokamak Buttons
-
 ### [Tokamak Demos](https://github.com/TokamakUI/Tokamak/tree/main/Sources/TokamakDemo)
