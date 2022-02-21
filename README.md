@@ -31,6 +31,4 @@ Some of my favorite libraries
 
 ### [TapGesture](https://github.com/fatsandwichgames/wasm-website/blob/master/Sources/Games/Views/Generic/TapGesture.swift) - Improved Tokamak Buttons
 
-### [Link](https://github.com/fatsandwichgames/wasm-website/blob/master/Sources/Games/Views/Generic/Link.swift) - Links for Tokamak
-
 ### [Tokamak Demos](https://github.com/TokamakUI/Tokamak/tree/main/Sources/TokamakDemo)
