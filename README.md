@@ -17,16 +17,3 @@ Some of my favorite libraries
 
 ### [Tokamak](https://github.com/TokamakUI/Tokamak) - Actively supported SwiftUI for the web
 
-# Legacy
-
-### [SwiftWebUI WASM](https://github.com/carson-katri/SwiftWebUI) - No longer maintained: SwiftUI for the web (Supports WASM)
-
-### [SwiftWebUI OG](https://github.com/SwiftWebUI/SwiftWebUI) - Original SwiftWebUI
-
-# Support
-
-### [Avacado Toast](https://github.com/SwiftWebUI/AvocadoToast) - SwiftWebUI Demo
-
-### [Tokamak To Do](https://github.com/TokamakUI/tokamak-todo-example) - An example Tokamak application
-
-### [Tokamak Demos](https://github.com/TokamakUI/Tokamak/tree/main/Sources/TokamakDemo)
